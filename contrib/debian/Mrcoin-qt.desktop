@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Mrcoin
+Comment=Mrcoin P2P Cryptocurrency
+Comment[fr]=Mrcoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Mrcoin, eşten eşe kriptografik sanal para birimi
+Exec=Mrcoin-qt %u
+Terminal=false
+Type=Application
+Icon=Mrcoin128
+MimeType=x-scheme-handler/Mrcoin;
+Categories=Office;Finance;

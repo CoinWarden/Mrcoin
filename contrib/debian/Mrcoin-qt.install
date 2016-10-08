@@ -1,0 +1,6 @@
+usr/local/bin/Mrcoin-qt usr/bin
+share/pixmaps/Mrcoin32.xpm usr/share/pixmaps
+share/pixmaps/Mrcoin16.xpm usr/share/pixmaps
+share/pixmaps/Mrcoin128.png usr/share/pixmaps
+debian/Mrcoin-qt.desktop usr/share/applications
+debian/Mrcoin-qt.protocol usr/share/kde4/services/
